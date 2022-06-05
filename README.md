@@ -1,6 +1,6 @@
 # Ballet Posture Coaching Program🩰
 
-## How to strat
+## How to start
 
 - clone this repository
 
@@ -27,6 +27,11 @@
   - Detailed Mode 선택시 화면에 10초 카운트 다운이 표시되며 사진이 찍히고 결과를 확인할 수 있다. 다시 찍고 싶으면 키보드 q키를 누르면 된다.
 - **종료**
   - 키보드 ESC 누르기
+
+## crawling
+- move to crawling directory and create input directory
+- down load chromedriver_win32 and put it crawling directory
+- execute crawling.py
 
 ## 개발환경
 
