@@ -4,7 +4,9 @@
 
 - clone this repository
 
-- unzip openpose-master.zip
+- download zip file at https://github.com/CMU-Perceptual-Computing-Lab/openpose and unzip openpose-master.zip
+
+- execute getModels.sh
 
 - download "pose_iter_160000.caffemodel" at
   http://posefs1.perception.cs.cmu.edu/OpenPose/models/pose/mpi/pose_iter_160000.caffemodel
