@@ -1,5 +1,7 @@
 # Ballet Posture Coaching Program🩰
 
+![시스템구성도](https://user-images.githubusercontent.com/55689863/172053152-ef28a8b5-7f6d-4c12-8ac5-f84167b3df81.jpg)
+
 ## How to start
 
 - clone this repository
